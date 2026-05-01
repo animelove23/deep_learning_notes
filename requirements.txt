@@ -1,4 +1,12 @@
-python
-pytorch 
-numpy
-pandas
+torch==2.11.0
+torchvision==0.26.0
+torchaudio==2.11.0
+numpy==2.3.2
+matplotlib==3.10.5
+pillow==11.3.0
+einops==0.8.2
+jaxtyping==0.3.9
+requests==2.32.4
+jupyterlab==4.5.4
+notebook==7.5.3
+ipykernel==7.2.0
